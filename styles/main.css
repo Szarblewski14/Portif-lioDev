@@ -1,0 +1,29 @@
+main {
+    display: flex;
+    flex-direction: column;
+    margin-top: 12rem;
+    text-align: center;
+
+    #info{
+        display: flex;
+        gap: 8rem;
+        justify-content: center;
+        margin-top: 5rem;
+    }
+
+    .maincontainer{
+        margin-bottom: 3.5rem;
+    }
+}
+
+.caixa {
+    border: solid 2px var(--gray-200);
+    border-radius: .5rem;
+    max-width: 40%;
+    padding: 1rem;
+
+    .caixa2{
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+    }
+}

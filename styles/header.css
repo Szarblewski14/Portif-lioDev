@@ -11,6 +11,10 @@
         text-align: center;
         margin-top: 3.5rem;
         gap: 1rem;
+
+        .brilho{
+            text-shadow: 1px 1px 3.5px var(--gray-400);
+        }
     }
 
     .icons{
@@ -76,7 +80,18 @@
     padding: 2rem;
     border-radius: 1rem;
     cursor: pointer;
-    border: 2px solid var(--gray-300);
+    border: 2px solid var(--gray-400);
+    box-shadow: 10px 5px 30px black;
+
+    .img1{
+        border: .5px solid var(--color-purple);
+        border-radius: .5rem;
+    }
+
+    .img2 {
+        border: .5px solid var(--gray-400);
+        border-radius: .5rem;
+    }
 }
 .projetoscontainer:hover{
     border: 2px solid var(--color-blue);
@@ -108,3 +123,4 @@
         }
     }
 }
+

@@ -1,5 +1,4 @@
 
-
 #containerHeader{
     .imageprincipal{
         display: flex;
@@ -61,13 +60,17 @@
 .projetoscontainer{
     display: flex;
     flex-direction: column;
+
     gap: 1rem;
     margin-top: 8rem;
-    background-color: var(--gray-300);
+
+    background-color: var(--gray-200);
     max-width: 20%;
+
     padding: 2rem;
     border-radius: 1rem;
     cursor: pointer;
+    border: 2px solid var(--gray-300);
 }
 
 #main {

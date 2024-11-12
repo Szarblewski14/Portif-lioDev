@@ -24,6 +24,7 @@
 
         .icons-bg{
             background-color: var(--gray-300);
+            border: .1px solid var(--gray-400);
             height: 2.5rem;
             width: 9rem;
             border-radius: 1rem;
@@ -31,6 +32,11 @@
             display: flex;
             justify-content: center;
             gap: .5rem;
+        }
+
+        .icons-bg:hover{
+            border: 1px solid var(--color-blue);
+            transition: .5s;
         }
         .spanc {
             color: var(--gray-500);
@@ -71,6 +77,10 @@
     border-radius: 1rem;
     cursor: pointer;
     border: 2px solid var(--gray-300);
+}
+.projetoscontainer:hover{
+    border: 2px solid var(--color-blue);
+    transition: 1s;
 }
 
 #main {

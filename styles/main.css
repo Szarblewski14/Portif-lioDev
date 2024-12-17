@@ -44,6 +44,11 @@ main {
         }
     }
 
+    .iconscontain{
+        display: flex;
+        justify-content: center;
+    }
+
     .icons{
         margin-bottom: 10rem;
         width: 8rem;

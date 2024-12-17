@@ -1,5 +1,8 @@
 nav{
-    background-color: transparent;
+    position: sticky;
+    top: 0;
+    background-color: var(--gray-100);
+    z-index: 10;
     box-shadow: 1px 2px 20px #ffffff0a;
     height: 3.5rem;
     padding: 1rem 8rem;

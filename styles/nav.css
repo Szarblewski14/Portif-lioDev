@@ -37,4 +37,8 @@ nav{
     .navtext{
         display: none;
     }
+    nav{
+      display: flex;
+      justify-content: center;
+    }
 }

@@ -28,7 +28,13 @@ nav{
     }
 }
 
-.teste:hover{
+.navegation-style:hover{
     color: var(--color-blue);
     transition: .5s;
+}
+
+@media(max-width:600px) {
+    .navtext{
+        display: none;
+    }
 }

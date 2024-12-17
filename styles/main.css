@@ -50,7 +50,7 @@ main {
     }
 
     .icons{
-        margin-bottom: 10rem;
+       
         width: 8rem;
         background-color: transparent;
         padding: 2rem;
@@ -66,6 +66,10 @@ main {
     .icons:hover{
         border: 2px solid var(--gray-300);
         transition: 1s;
+    }
+
+    .containerhability{
+        margin-bottom: 10rem;
     }
 }
 
@@ -90,5 +94,10 @@ main {
                 margin-top: 5rem;
             }
         }
+    }
+  
+    .iconscontain{
+        display: flex;
+        gap: .5rem; 
     }
 }

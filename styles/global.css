@@ -20,7 +20,7 @@
 }
 
 body {
-    background: url(/img/bg.svg) no-repeat top / contain;
+    background: url(../img/bg.svg) no-repeat top / contain;
     background-color: var(--gray-200);
     font-family: "Inconsolata", monospace;
 }

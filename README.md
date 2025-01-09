@@ -1,12 +1,14 @@
 # Portfólio Dev
+Meu portfólio foi feito na intenção de apresentar meu trabalho, meus projetos e minhas habilidades.
 
-## O que usamos:
+## Tecnologias usadas:
+- Html
+- CSS
 
- Html
+### Contato:
+- Linkedin: https://www.linkedin.com/in/leonardo-szarblewski-b4448b324/
+- Email: leonardo27.laurindo@gmail.com
  
- CSS
- 
-### Imagem do projeto:![portfólio](https://github.com/user-attachments/assets/5213fd65-175d-4486-b7ba-79990939f0bf)
 
 Vercel link: https://szarblewski14.github.io/Portif-lioDev/
 
